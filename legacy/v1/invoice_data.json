@@ -1,0 +1,33 @@
+{
+    "vendor_name": "Switch, Ltd.",
+    "vendor_address": "switch\tDallas, TX 75267-4592\nPO Box 674592\t\t\t\t\t\t\t\tPage 1 of 1\n\n\tInvoice Date Due Date\tInvoice No.\n\t09/22/23\t08/27/24\t1556267\n\nToni Hackel\n6600 Kalanianaole Hwy Ste 200,\nHonolulu\n\nAccount No.\t\t\tP.O. Number\n\tServices for month of March\nU-08805490\t\t\t\tPO-2OPC-4316\nDescription\t\t\t\tQuantity\tRate\tAmount\nTransport | Switch Fiber Pair (Intra-campus) | Pairs (4419693704) (04/2023|10 Gbps Fiber\t2,912.98\t934.09\t2,720,985.49\nto HOEpyb (YSPG4VFH) (04/2023)\nCarrier Taxes for Transport | 230 Gbps Wavelength Diverse between Sparks, OR 56789 and\t3,500.87\t6,229.33\t21,808,074.52\nPlano, NV 98765 (SNpTfT) (NJYM5MQP) (07/2023 Taxes) (07/2023)\nSpecial Partnership Discount (03/2023)\t\t\t\t\t8.00\t-561.00\t-4,488.00\nItem Discount: Special Partnership Discount (11/2023)\t\t\t\t8.00\t-296.00\t-2,368.00\nTransport | 82 Gbps Fiber to YDDTJOrnuW (L0KSKNCB) (01/2024)\t\t\t5,607.34\t656.07\t3,678,807.55\nCarrier Taxes for Transport | 45 Gbps Wavelength Diverse between Hillsboro, NV 98765\t3,949.46\t7,128.95\t28,155,502.87\nand Portland, TX 56789 (a488ZH) (8D3PKG77) (05/2023 Taxes) (05/2023)\nTransport | 97 Gbps Fiber to 3XMOyFdB (5EE7PIWY) (02/2024)\t\t\t942.71\t1,918.01\t1,808,127.21\n\n\tTotal USD\t$58,164,641.64\n\nPlease update your system with our new remittance instruction located on this invoice. Please contact accounts receivable@switch.com with any\nquestions.\n\nPlease make payments to: Switch, Ltd.\nWire/ACH Payment: PNC Bank, N.A.\tAccount No.:3802512896 ACH Routing:083009060 Wire Routing: 043000096 SWIFT:PNCCUS33\nFor questions, please call or email Accounts Receivable Department.\nPhone No.\tFax No.\t\t\tE-Mail\t\t\t\t\tWeb Site\n702.522.2940\t702.444.9546",
+    "date": "09/22/23",
+    "invoice_number": "1556267",
+    "bill_to_name": "Toni Hackel",
+    "items": [
+        {
+            "sku": "Unknown",
+            "description": "Transport | 82 Gbps Fiber to YDDTJOrnuW (L0KSKNCB) (01/2024)",
+            "quantity": 5607.34,
+            "tax_rate": null,
+            "price": 656.07,
+            "total": 3678807.55
+        },
+        {
+            "sku": "98765",
+            "description": "Carrier Taxes for Transport | 45 Gbps Wavelength Diverse between Hillsboro, NV",
+            "quantity": 3949.46,
+            "tax_rate": null,
+            "price": 7128.95,
+            "total": 28155502.87
+        },
+        {
+            "sku": "Unknown",
+            "description": "Transport | 97 Gbps Fiber to 3XMOyFdB (5EE7PIWY) (02/2024)",
+            "quantity": 942.71,
+            "tax_rate": null,
+            "price": 1918.01,
+            "total": 1808127.21
+        }
+    ]
+}

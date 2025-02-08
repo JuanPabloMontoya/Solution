@@ -1,0 +1,114 @@
+{
+    "account_number": null,
+    "bill_to": {
+        "address": null,
+        "name": null,
+        "parsed_address": null,
+        "vat_number": null
+    },
+    "cashback": null,
+    "category": "Utilities",
+    "country_code": "CO",
+    "created_date": "2025-02-08 21:59:58",
+    "currency_code": "COP",
+    "date": "2024-03-11 00:00:00",
+    "delivery_date": null,
+    "discount": null,
+    "document_reference_number": "1000193765",
+    "document_title": null,
+    "document_type": "receipt",
+    "due_date": null,
+    "duplicate_of": 282668335,
+    "external_id": null,
+    "id": 282681185,
+    "img_file_name": "282681185.pdf",
+    "img_thumbnail_url": "https://scdn.veryfi.com/receipts/c3131f4638a3bc5a/c0ad32e2-6d31-426c-812d-00311a1705b8/thumbnail.jpg?Expires=1739052901&Signature=RNWFzPps6f40VqfXlm1vuSqcEZz7TSeMBigFjqqfu6LN-gZGwdV5O3T2LH5gqmwrV3akI0u06y3issWdh9Un57wS1gMaKgYOxyOqU5QQGyklTkpFHHUaQ8HY7BszNxP2TVW4zhCVwaRIyD7TJoZCG9xY1DrGKO77yGPihL~0oGD39TLmSvTfDJWi~UmV3Uz1cBrIMHgNBWx8gRDHJhz59Rc8E0EkHhXO3BLzGazmVNvgUMzkk5iyNVW42gJ1C5TqQOa56KrcZT~9mhK8nlUMStmi3wmfeexhc8a9JrsEeeVaSzVfZwmID-AkyqmlnGcTp75VSMecVik30aJAw83ENQ__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "img_url": "https://scdn.veryfi.com/receipts/c3131f4638a3bc5a/c0ad32e2-6d31-426c-812d-00311a1705b8/3349c6e3-3851-4e50-a2fa-f7be4b1eb444.pdf?Expires=1739052901&Signature=dlM28yzIzUx3gTJsCVit7ze0eUL0c84pCGGekU9IlPV9Um-RWiG7b53MEoPOu7mf3UGRgVYDLTakMuLqqiTNw6pDq~52YuJKcemd9HGgOWpnfQiRYeefInoX15EcrjK~bi2LHkN~sxagaXO1LZ0el3yCBEgqnrj~e4aomvBMBdtBkQKr7SuWQvRejOaobaE23SvlmiBBTlCmK7b5piUTfwU-dGBGCfCSD4QY6lGKsYRKOZUu3Fi4HvMqtCqyvACuJJmmdM2WqKczSMxJNWQZA1Xyo9iBF3RQO3JONB47-AeCK4qjjNo9HM0bWT~GRWgHNCrc8a2DMdh3fwmdKOsZgw__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "insurance": null,
+    "invoice_number": null,
+    "is_duplicate": true,
+    "is_money_in": null,
+    "line_items": [],
+    "meta": {
+        "language": [
+            "es"
+        ],
+        "ocr_score": 0.899,
+        "owner": "juanpamon.13",
+        "pages": [
+            {
+                "height": 792,
+                "language": [
+                    "es"
+                ],
+                "width": 612
+            }
+        ],
+        "processed_pages": 1,
+        "source": "api",
+        "source_documents": [
+            {
+                "height": 792,
+                "size_kb": 152,
+                "width": 612
+            }
+        ],
+        "total_pages": 1
+    },
+    "notes": null,
+    "ocr_text": "sura\tEPS Sura\tEPS Sura\tEPS sura\tEPS\tSt\nEPS sura\tEPS Sura EPS Sura sura\tra\nSura\tEPS Sura\tEPS sura\tEPS sura\tEPS SU\n\nEPS SUR CERTIFICADO DE AFILIACIÓN AL PBS DE EPS SURA\tEPS Sura\nSura\tEPS Sura\tEPS Sura\tEPS sura\tEPS St\nEPS SURAMERICANA S.A. en desarrollo de su programa especial para la garantía del Plan de Beneficios en Salud denominado EPS\nSURAPS\tsura\tEPS sura\tEPS sura\tEPS sura\nSura\tEPS sura\tEPSCERTIFICA\tEPS sura\tEPS\tS\n\n\tEP.S\t(a) en ra\nDo identificado(a) con C\n\tUDADANÍA número 10001\nLENTINA URIBI\nQue SARA VALENTINA URIBE HURTADO identificado(a) con CÉDULA DE CIUDADANÍA número 1000193765 está registrado(a) en\nel PBS EPS SURA con la siguiente información:\nsiguiente in\tEPS\tsura\tEPS sura\tEPS St\nSura\tEPS\nTIPO Y NÚMERO DE IDENTIFICACIÓN\tCC 1000193765\n\tosura\tEPS Sura\nNOMBRES Y APELLIDOS\tEPS\tSARA VALENTINA URIBE HURTADO\nTIPO DE AFILIADO\t\tBENEFICIARIO\nCOMPAÑERO (A) PERMANENTE\tTEGRAL Sura\tEPS SU\nBurg PAR\nPARENTESCO\tILIACIÓN Sura\tTIENE DERECHO A COBERTURA INTEGRAL\nESTADO DE AFILIACIÓN\nCAUSA ESTADO DE LA AFILIACIÓN\tPROTECCION LABORAL *\nFECHA DE INGRESO A EPS SURA\t11/03/2024\nFECHA RETIRO EPS SURA\tEPS\t24/01/2025\tEPS sura\tEPS Sura\nSEMANAS COTIZADAS EN EPS SURA\t137\nSur SEMANAS COTIZADAS ÚLTIMO AÑO\t41S sura\tEPS Sura\tEPS S\n* Protección Laboral hasta el 24/02/2025 EPS Sura\tEPS sura\tEPS Sura\nSura\tEPS Sura\tEPS Sura\tEPS Sura\tEPS SU\nEPS\tsura\tEPS Sura\tEPS sura\tEPS Sura\nDIRECCIÓN DE AFILIACIONES\nSura Fecha de generación: SU 06/02/2025 EPS Sura\tEPS sura\tEPS\tSt\nESTE DOCUMENTO NO ES VÁLIDO PARA LA PRESTACIÓN\nEPS sura\tDEL SERVICIO, NI PARA TRASLADOS ura\tEPS sura\nSura\tEPS Sura\tEPS Sura\tEPS Sura\tEPS SU\nEPS Sura\tEPS Sura\tEPS Sura\tEPS Sura\n\nEDC sura\tsura\tEDS sura\n\nEPS SURAMERICANA S.A\nMedellín, Antioquia, Colombia. Líneas de atención: Barranquilla: 605 319 7901, Cali: 602 380 8941,\nMedellín: 604 448 61 15, Bogotá: 601 448 7941\nLínea Nacional: 01 8000 519 519\nepssura.com\nVIGILADO Supersalud",
+    "order_date": null,
+    "payment": {
+        "card_number": null,
+        "display_name": null,
+        "terms": null,
+        "type": null
+    },
+    "pdf_url": "https://scdn.veryfi.com/receipts/c3131f4638a3bc5a/c0ad32e2-6d31-426c-812d-00311a1705b8/3349c6e3-3851-4e50-a2fa-f7be4b1eb444.pdf?Expires=1739052901&Signature=dlM28yzIzUx3gTJsCVit7ze0eUL0c84pCGGekU9IlPV9Um-RWiG7b53MEoPOu7mf3UGRgVYDLTakMuLqqiTNw6pDq~52YuJKcemd9HGgOWpnfQiRYeefInoX15EcrjK~bi2LHkN~sxagaXO1LZ0el3yCBEgqnrj~e4aomvBMBdtBkQKr7SuWQvRejOaobaE23SvlmiBBTlCmK7b5piUTfwU-dGBGCfCSD4QY6lGKsYRKOZUu3Fi4HvMqtCqyvACuJJmmdM2WqKczSMxJNWQZA1Xyo9iBF3RQO3JONB47-AeCK4qjjNo9HM0bWT~GRWgHNCrc8a2DMdh3fwmdKOsZgw__&Key-Pair-Id=APKAJCILBXEJFZF4DCHQ",
+    "purchase_order_number": null,
+    "reference_number": "VCGEG-81185",
+    "rounding": null,
+    "service_end_date": null,
+    "service_start_date": null,
+    "ship_date": null,
+    "ship_to": {
+        "address": null,
+        "name": "SARA VALENTINA URIBE HURTADO",
+        "parsed_address": null
+    },
+    "shipping": null,
+    "store_number": null,
+    "subtotal": null,
+    "tags": [],
+    "tax": null,
+    "tax_lines": [],
+    "tip": null,
+    "total": null,
+    "total_weight": null,
+    "tracking_number": null,
+    "updated_date": "2025-02-08 22:00:01",
+    "vendor": {
+        "abn_number": null,
+        "account_number": null,
+        "address": "Medellín, Antioquia, Colombia. Líneas de atención: Barranquilla",
+        "bank_name": null,
+        "bank_number": null,
+        "bank_swift": null,
+        "category": "Utilities",
+        "email": null,
+        "fax_number": null,
+        "iban": null,
+        "lat": null,
+        "lng": null,
+        "logo": "https://cdn.veryfi.com/logos/tmp/e166db4d-ba13-477b-a2a6-676f126178f9.png",
+        "name": "EPS Sura sura",
+        "parsed_address": {},
+        "phone_number": "605 319 7901",
+        "raw_address": "Medellín, Antioquia, Colombia. Líneas de atención: Barranquilla",
+        "raw_name": "EPS Sura sura",
+        "reg_number": null,
+        "type": "Utilities",
+        "vat_number": null,
+        "web": null
+    }
+}

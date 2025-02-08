@@ -1,0 +1,121 @@
+{
+    "vendor_name": "Switch, Ltd.",
+    "vendor_address": "Dallas, TX 75267-4592",
+    "date": "11/18/23",
+    "invoice_number": "699581195",
+    "bill_to_name": "Dataiku, Inc.",
+    "items": [
+        {
+            "sku": "Unknown",
+            "description": "Installation of Cross Connect | 690 Gbps Fiber to zuuBXKLZG",
+            "quantity": 353.21,
+            "tax_rate": null,
+            "price": 1251.12,
+            "total": 441908.1
+        },
+        {
+            "sku": "Unknown",
+            "description": "Installation of Cross Connect | 907 Gbps Fiber to 5OGdqc",
+            "quantity": 475.5,
+            "tax_rate": null,
+            "price": 4764.54,
+            "total": 2265538.77
+        },
+        {
+            "sku": "Unknown",
+            "description": "Transport | 040 Gbps Fiber to 7nGIFCwq0H (E7JUMXRS) (10/2023)",
+            "quantity": 8278.13,
+            "tax_rate": null,
+            "price": 291.97,
+            "total": 2416965.62
+        },
+        {
+            "sku": "Unknown",
+            "description": "Installation of Cross Connect | 75 Gbps Fiber to FmcmB9xEDO",
+            "quantity": 821.17,
+            "tax_rate": null,
+            "price": 2264.96,
+            "total": 1859917.2
+        },
+        {
+            "sku": "Unknown",
+            "description": "Installation of Cross Connect | 87 Gbps Fiber to z78r91 BUp5",
+            "quantity": 3262.72,
+            "tax_rate": null,
+            "price": 1259.8,
+            "total": 4110374.66
+        },
+        {
+            "sku": "Unknown",
+            "description": "Transport | 750 Gbps Fiber to PuXWMv (UFKCJCVC) (09/2023)",
+            "quantity": 336.72,
+            "tax_rate": null,
+            "price": 343.99,
+            "total": 115828.31
+        },
+        {
+            "sku": "56789",
+            "description": "Carrier Taxes for Transport | 49 Gbps Wavelength Diverse between Hillsboro, OR",
+            "quantity": 2358.4,
+            "tax_rate": null,
+            "price": 404.21,
+            "total": 953288.86
+        },
+        {
+            "sku": "12345",
+            "description": "Carrier Taxes for Transport | 21 Gbps Wavelength Diverse between LasVegas, OR",
+            "quantity": 3339.71,
+            "tax_rate": null,
+            "price": 663.92,
+            "total": 2217300.26
+        },
+        {
+            "sku": "12345",
+            "description": "Carrier Taxes for Transport | 511 Gbps Wavelength Diverse between Portland, OR",
+            "quantity": 5759.41,
+            "tax_rate": null,
+            "price": 4204.68,
+            "total": 24216476.04
+        },
+        {
+            "sku": "Unknown",
+            "description": "Installation of Cross Connect | 590 Gbps Fiber to 79Q5cvUF",
+            "quantity": 973.17,
+            "tax_rate": null,
+            "price": 5969.51,
+            "total": 5809348.05
+        },
+        {
+            "sku": "Unknown",
+            "description": "Installation of Cross Connect | 74 Gbps Fiber to dyen",
+            "quantity": 1545.03,
+            "tax_rate": null,
+            "price": 2800.07,
+            "total": 4326192.15
+        },
+        {
+            "sku": "Unknown",
+            "description": "Transport | 719 Gbps Fiber to 0RxCo6EF3 (X47VYARP) (08/2023)",
+            "quantity": 6874.59,
+            "tax_rate": null,
+            "price": 6356.55,
+            "total": 43698675.06
+        },
+        {
+            "sku": "Unknown",
+            "description": "Installation of Cross Connect | 99 Gbps Fiber to jUdIwc",
+            "quantity": 170.75,
+            "tax_rate": null,
+            "price": 6832.01,
+            "total": 1166565.71
+        },
+        {
+            "sku": "Unknown",
+            "description": "Transport | 506 Gbps Fiber to 49SxN6 (4MVQGWYE) (09/2023)",
+            "quantity": 2932.72,
+            "tax_rate": null,
+            "price": 8720.18,
+            "total": 25573846.29
+        }
+    ]
+}

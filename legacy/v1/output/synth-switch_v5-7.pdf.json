@@ -1,0 +1,25 @@
+{
+    "vendor_name": "Switch, Ltd.",
+    "vendor_address": "Dallas, TX 75267-4592",
+    "date": "09/11/23",
+    "invoice_number": "16005913",
+    "bill_to_name": "Nu Life Health",
+    "items": [
+        {
+            "sku": "Unknown",
+            "description": "Transport | 971 Gbps Fiber to wXv21fam (X6HCHK1C) (10/2023)",
+            "quantity": 3372.59,
+            "tax_rate": null,
+            "price": 3868.31,
+            "total": 13046223.62
+        },
+        {
+            "sku": "56789",
+            "description": "Carrier Taxes for Transport | 486 Gbps Wavelength Diverse between Hillsboro, NV",
+            "quantity": 3593.22,
+            "tax_rate": null,
+            "price": 4915.32,
+            "total": 17661826.13
+        }
+    ]
+}
